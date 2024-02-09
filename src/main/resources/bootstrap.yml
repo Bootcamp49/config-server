@@ -4,7 +4,7 @@ spring:
     security: 
         user: 
             name: nttdata
-            password: nttdata
+            password: nttd4t4
     cloud:
         config:
             server:
